@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/c/Users/rafael.olonapoblet/Desktop/tutorial/code/colebrook'
+make: Leaving directory '/c/Users/rafael.olonapoblet/Desktop/tutorial/code/colebrook'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
